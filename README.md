@@ -75,6 +75,13 @@
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
 
+### 🛠️ IDEs & Tools
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor%20AI-242938?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI" />
+</p>
+
 ---
 
 ## 📈 GitHub Stats
