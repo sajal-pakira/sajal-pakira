@@ -88,7 +88,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sajal-pakira&show_icons=true&theme=react" width="52%" style="height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajal-pakira&layout=compact&theme=react" width="46%" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajal-pakira&layout=compact&theme=react" width="47%" style="height: 200px;" />
 </p>
 
 ---
