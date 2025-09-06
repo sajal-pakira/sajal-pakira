@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working with **MERN Stack**
 - 🌱 Exploring **Azure, AWS, Docker, Kubernetes, Next.js, Three.js, GSAP**
-- 🌐 Check out my [Portfolio]([https://sajalpakiraj60uisou.contra.com/?isInternalTraffic=true&utm_campaign=independent_portfolio_redirect&utm_medium=contra&utm_source=portfolio](https://sajal-pakira-portfolio-25.vercel.app/))
+- 🌐 Check out my [Portfolio](https://sajal-pakira-portfolio-25.vercel.app/)
 - 💬 Ask me about **React, Node, MongoDB, Express, Web Animations**
 - 🧩 Fun Fact: I love making things move with **GSAP & Three.js**
 
