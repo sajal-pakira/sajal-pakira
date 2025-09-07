@@ -11,7 +11,7 @@
 ## 🧠 About Me
 
 - 🔭 I’m currently working with **MERN Stack**
-- 🌱 Exploring **Next.js, Three.js, GSAP**
+- 🌱 Exploring **Next.js, Typescript, Supabase, Three.js, GSAP**
 - 🌐 Check out my [Portfolio](https://sajal-pakira-portfolio-25.vercel.app/)
 - 💬 Ask me about **React, Node, MongoDB, Express, Web Animations**
 - 🧩 Fun Fact: I love making things move with **GSAP & Three.js**
