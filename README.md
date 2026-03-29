@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-- 🔭 I’m currently working with **MERN Stack**
+- 🔭 I'm currently working with **MERN Stack**
 - 🌱 Exploring **Next.js, Typescript, Supabase, Three.js, GSAP**
 - 🌐 Check out my [Portfolio](https://sajal-pakira-portfolio-25.vercel.app/)
 - 💬 Ask me about **React, Node, MongoDB, Express, Web Animations**
@@ -84,15 +84,36 @@
 
 ---
 
-
-
-## 📈 GitHub Stats
+### :zap: Most Used Languages ❤️
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=sajal-pakira&show_icons=true&theme=react" width="52%" style="height: 200px;" /> -->
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajal-pakira&theme=react" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajal-pakira&layout=compact&theme=react" width="47%" style="height: 200px;" /> -->
+  
+  <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sajal-pakira&theme=dracula"/><br>
+  <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sajal-pakira&theme=dracula"/>
+  <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sajal-pakira&theme=radical&utcOffset=5.30"/>
 </p>
+
+---
+
+### :zap: GitHub Stats 📈
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+<p align="center">
+  
+  <img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=sajal-pakira&theme=radical&hide_border=true&layout=compact"/><br><br>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajal-pakira&theme=dracula"/>
+</p>
+
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+
+
+<br>
+
+[![Sajal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sajal-pakira&bg_color=000000&color=08fd0c&line=00ebdb&point=ffbc05&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![sajal-pakira's GitHub | Topics](https://stats.quine.sh/sajal-pakira/topics-over-time?theme=dark)](https://quine.sh)
 
 ---
 
@@ -110,7 +131,7 @@
 
 ## 🧠 Fun Zone
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sajal-pakira/sajal-pakira/main/assets/fun.gif" width="300px" alt="Animated Fun"/>
