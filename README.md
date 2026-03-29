@@ -107,9 +107,8 @@
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-
-
 <br>
+<img align="center" width="1500" src="https://raw.githubusercontent.com/sajal-pakira/sajal-pakira/output/github-contribution-grid-snake-dark.svg"/>
 
 [![Sajal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sajal-pakira&bg_color=000000&color=08fd0c&line=00ebdb&point=ffbc05&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
