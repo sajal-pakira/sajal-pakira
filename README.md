@@ -13,7 +13,7 @@
 - 🔭 I'm currently working with **MERN Stack**
 - 🌱 Exploring **Next.js, Typescript, Supabase**
 - 🌐 Check out my [Portfolio](https://sajal-pakira-portfolio-25.vercel.app/)
-- 💬 Ask me about **React, Node, MongoDB, Express, Web Animations**
+- 💬 Ask me about **React, Node, MongoDB, Express**
 
 ---
 
